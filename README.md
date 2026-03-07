@@ -66,7 +66,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahasan39&theme=2077" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahasan39&theme=2077&utcOffset=6" alt="Productive Time" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahasan39&theme=2077" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahasan39&theme=2077" alt="Top Languages by Commit" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahasan39&theme=2077" alt="Profile Details" width="97%" />
+</p>
+
+---
+
+## 🔥 Streak & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahasan39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180" />
@@ -104,6 +122,107 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Ahasan39/Ahasan39/output/github-contribution-grid-snake.svg" width="95%" />
   </picture>
 </p>
+
+---
+
+## 🗂️ Project Portfolio
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 USuper Shop</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>Full-featured e-commerce platform with product management, cart system, and complete order flow.</p>
+      <ul>
+        <li>Product & multi-category management</li>
+        <li>Shopping cart & secure checkout</li>
+        <li>Admin dashboard with order control</li>
+        <li>Customer authentication & profiles</li>
+        <li>Variant product support</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ahasan39/usupershop">
+          <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Developer Portfolio</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>Modern personal portfolio site built to showcase projects, skills & contact info for recruiters.</p>
+      <ul>
+        <li>Fully responsive across devices</li>
+        <li>Smooth scroll & animations</li>
+        <li>Projects & skills showcase</li>
+        <li>Contact form integration</li>
+        <li>Semantic, accessible markup</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ahasan39/ahasan39.github.io">
+          <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽️ Khadyobitan — Food E-Commerce</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p>Full-stack food & grocery e-commerce platform built on Laravel with a modern storefront.</p>
+      <ul>
+        <li>Product listing & search</li>
+        <li>Category & brand filtering</li>
+        <li>Cart, wishlist & order tracking</li>
+        <li>Rich admin CRUD panel</li>
+        <li>User auth & profile management</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ahasan39/khadyobitan_newversion">
+          <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Doctor Appointment API</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <p>RESTful API for managing doctor-patient appointments with auth, scheduling & role-based access.</p>
+      <ul>
+        <li>JWT-based authentication</li>
+        <li>Doctor & patient management</li>
+        <li>Appointment scheduling system</li>
+        <li>Role-based access control</li>
+        <li>Laravel resource routes & policies</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Ahasan39/doctor-appointment-api">
+          <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>&nbsp;
+        <a href="https://github.com/Ahasan39?tab=repositories">
+          <img src="https://img.shields.io/badge/ALL_REPOSITORIES_→-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
