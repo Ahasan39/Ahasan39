@@ -87,12 +87,13 @@
 ## 🔥 Streak & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahasan39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahasan39&theme=2077" alt="GitHub Stats" height="180" />
   <img src="https://streak-stats.demolab.com/?user=Ahasan39&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahasan39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahasan39&theme=2077" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahasan39&theme=2077" alt="Most Used Languages" height="180" />
 </div>
 
 ---
@@ -100,7 +101,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahasan39&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahasan39&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -128,9 +129,118 @@
 ## 🗂️ Project Portfolio
 
 <table>
+  <!-- ⭐ FEATURED PROJECT 1 -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">⭐ University Repository Management System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+      </p>
+      <p align="center">A <strong>production-ready thesis lifecycle automation platform</strong> developed over 1.5 years for <strong>Premier University, Chattogram</strong> — officially integrated with the university website and actively used in production with real-time API integration.</p>
+      <table align="center" width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <strong>🔐 Access & Assignment</strong>
+            <ul>
+              <li>Multi-role RBAC (Admin, Advisor, Supervisor, Co-Supervisor, Panel Member, Student)</li>
+              <li>Area of Interest-based matching algorithm</li>
+              <li>Rank/Priority-based matching</li>
+              <li>Hybrid algorithm with workload balancing</li>
+              <li>Supervisor capacity validation</li>
+            </ul>
+          </td>
+          <td width="33%" valign="top">
+            <strong>📄 Thesis Lifecycle</strong>
+            <ul>
+              <li>PDF Annotation Studio (in-browser feedback)</li>
+              <li>Meeting management & history tracking</li>
+              <li>Excel-based bulk group import</li>
+              <li>Public thesis repository</li>
+              <li>Real-time university API integration</li>
+            </ul>
+          </td>
+          <td width="33%" valign="top">
+            <strong>📊 Monitoring & Reporting</strong>
+            <ul>
+              <li>Performance monitoring dashboards</li>
+              <li>Real-time notifications</li>
+              <li>Analytics with Chart.js</li>
+              <li>Production-deployed & actively used</li>
+              <li>1.5 years of development & iteration</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+      <p align="center">
+        <a href="https://github.com/Ahasan39?tab=repositories">
+          <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <!-- ⭐ FEATURED PROJECT 2 -->
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">⭐ Smart Restaurant Management System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" />
+      </p>
+      <p align="center">A comprehensive, full-stack restaurant management system — covering everything from admin panel & POS to customer portal, KOT, inventory, multi-language support (EN / AR / BN), and real-time order notifications.</p>
+      <table align="center" width="100%">
+        <tr>
+          <td width="33%" valign="top">
+            <strong>🏢 Admin Panel</strong>
+            <ul>
+              <li>Real-time dashboard & analytics</li>
+              <li>Role-based access (Admin, Manager, Chef, Waiter, Cashier)</li>
+              <li>Menu & QR code management</li>
+              <li>POS & KOT system</li>
+              <li>Inventory, supplier & expense tracking</li>
+            </ul>
+          </td>
+          <td width="33%" valign="top">
+            <strong>🌐 Public Website</strong>
+            <ul>
+              <li>Multi-language (English, Arabic, Bengali)</li>
+              <li>RTL layout support for Arabic</li>
+              <li>Online ordering & table reservation</li>
+              <li>Shopping cart with Pinia state</li>
+              <li>Fully responsive (mobile / tablet / desktop)</li>
+            </ul>
+          </td>
+          <td width="33%" valign="top">
+            <strong>👤 Customer Portal</strong>
+            <ul>
+              <li>Personal dashboard & order history</li>
+              <li>Active order tracking</li>
+              <li>Quick reorder & cancellation</li>
+              <li>Profile & password management</li>
+              <li>Reports: sales, profit/loss metrics</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+      <p align="center">
+        <a href="https://github.com/Ahasan39?tab=repositories">
+          <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 USuper Shop</h3>
+      <h3 align="center">🛒 Multi Vendor E-commerce</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -197,7 +307,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Doctor Appointment API</h3>
+      <h3 align="center">🏥 MediBook — Doctor Appointment System</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
