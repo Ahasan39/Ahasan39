@@ -101,7 +101,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahasan39&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahasan39&theme=tokyonight&no-frame=false&no-bg=true&column=7&margin-w=4&margin-h=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
 ---
