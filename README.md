@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Ahasan39">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&height=45&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Python+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%26+Building+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&height=45&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Node.js+%7C+Python+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Always+Learning+%26+Building+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ A highly motivated and passionate **Computer Science & Engineering** graduate fr
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,firebase" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,mongodb,mysql,firebase" alt="Backend" />
 </p>
 
 **Tools & DevOps**
