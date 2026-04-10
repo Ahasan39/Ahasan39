@@ -265,7 +265,7 @@ A high-performance news publishing platform with advanced SEO, dynamic categorie
 - **Modern UI**: System-aware dark mode and accessible design
 
 <p align="center">
-  <a href="https://news.qorvinit.com/">
+  <a href="https://newspaper.qorvinit.com/">
     <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
