@@ -141,8 +141,8 @@ A **production-ready thesis lifecycle automation platform** developed over 1.5 y
 - Production-deployed & actively used (1.5 years of development & iteration)
 
 <p align="center">
-  <a href="https://github.com/Ahasan39?tab=repositories">
-    <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
@@ -181,8 +181,118 @@ A comprehensive, full-stack restaurant management system — covering everything
 - Sales & profit/loss reporting
 
 <p align="center">
-  <a href="https://github.com/Ahasan39?tab=repositories">
-    <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <a href="https://restaurant.qorvinit.com/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### ⭐ Upazila Directory System
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+A comprehensive directory system for the Jamalpur district built with Laravel 12 and React.
+
+- **Location Hierarchy**: Districts > Upazilas > Unions
+- **Directory Categories**: Health, Education, Government, etc.
+- **Data Management**: Detailed Institutional Data Management
+- **Localized Job Board**: Localized career opportunities
+- **Contributor System**: Points System for Contributors
+- **Real-time Notifications**: Instant updates
+- **Search Performance**: FULLTEXT Search for high performance
+
+<p align="center">
+  <a href="https://hellojamalpur.qorvinit.com/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### ⭐ Company Website CMS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+A dynamic company website with a comprehensive CMS for managing pages, content, and team information.
+
+- **Dynamic Content**: Flexible page management system
+- **Blog Engine**: Full-featured blog system with categories
+- **Showcase**: Dedicated services & projects showcase
+- **Communication**: Integrated contact forms
+- **Team**: Staff & management profiles
+- **SEO Optimized**: Built-in tools for search engine optimization
+
+<p align="center">
+  <a href="https://qorvinit.com/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### ⭐ Modern News Portal & CMS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18n-009688?style=flat-square&logo=google-translate&logoColor=white" />
+</p>
+
+A high-performance news publishing platform with advanced SEO, dynamic categories, and automated site mapping.
+
+- **Bilingual Interface**: Seamless support for Bengali & English (i18n)
+- **Role-Based Workflow**: Admin, Editor, Journalist, and Moderator roles
+- **Visual Customizer**: Site customizer with real-time live preview
+- **Social Media**: Dynamic social card generator for sharing
+- **Layout Builder**: Drag-and-drop section builder for homepage layouts
+- **Monetization**: Built-in Ad Management system
+- **Interactive Experience**: Breaking news ticker, hero sliders, and font controls
+- **Rich Media**: Dedicated Video News section and Photo Gallery
+- **Modern UI**: System-aware dark mode and accessible design
+
+<p align="center">
+  <a href="https://news.qorvinit.com/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### ⭐ Bangladesh B2B Hub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+A professional B2B Supplier Directory and Lead Generation Platform specifically designed for verified Bangladeshi suppliers and global buyers.
+
+- **Verified Directory**: Curated list of verified Bangladeshi suppliers
+- **Lead Generation**: Tools for buyers to request quotes and connect with sellers
+- **Supplier Profiles**: Detailed company portfolios and product showcases
+- **Category Hierarchy**: Industry-specific categorization for easy discovery
+- **Communication**: Integrated inquiry system for business networking
+
+<p align="center">
+  <a href="https://supplierhaat.com/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
@@ -229,8 +339,8 @@ A full-stack e-commerce platform built with **Laravel 11** (backend) and **React
 - Docker configs (PHP 7.4–8.2)
 
 <p align="center">
-  <a href="https://github.com/Ahasan39/khadyobitan_newversion">
-    <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <a href="https://khadyobitan.com/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
@@ -254,8 +364,8 @@ Full-featured e-commerce platform with product management, cart system, and comp
 - Variant product support
 
 <p align="center">
-  <a href="https://github.com/Ahasan39/usupershop">
-    <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
@@ -278,8 +388,8 @@ Modern personal portfolio site built to showcase projects, skills & contact info
 - Semantic, accessible markup
 
 <p align="center">
-  <a href="https://github.com/Ahasan39/ahasan39.github.io">
-    <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <a href="https://ahasan39.github.io/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
 </p>
 
@@ -303,8 +413,8 @@ RESTful API for managing doctor-patient appointments with auth, scheduling & rol
 - Laravel resource routes & policies
 
 <p align="center">
-  <a href="https://github.com/Ahasan39/doctor-appointment-api">
-    <img src="https://img.shields.io/badge/SOURCE_CODE_→-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <a href="https://ahasan39.github.io/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO_→-28A745?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
   </a>
   &nbsp;
   <a href="https://github.com/Ahasan39?tab=repositories">
