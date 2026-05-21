@@ -69,8 +69,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahasan39&theme=2077" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahasan39&theme=2077&utcOffset=6" alt="Productive Time" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahasan39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahasan39&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 ## 🔥 Contribution Overview
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahasan39&theme=2077" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahasan39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="180" />
   <a href="https://github.com/Ahasan39">
     <img src="https://img.shields.io/badge/View%20Official%20Contribution%20Calendar-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Official Contribution Calendar" />
   </a>
