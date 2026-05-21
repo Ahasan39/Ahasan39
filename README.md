@@ -52,24 +52,6 @@ A highly motivated and passionate **Computer Science & Engineering** graduate fr
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahasan39&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahasan39&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahasan39&theme=2077" alt="Top Languages by Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahasan39&theme=2077" alt="Top Languages by Commit" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahasan39&theme=2077" alt="Profile Details" width="97%" />
-</p>
-
----
-
 ## 🔥 Contribution Overview
 
 <p align="center">
@@ -80,26 +62,6 @@ A highly motivated and passionate **Computer Science & Engineering** graduate fr
 
 <p align="center">
   <sub>GitHub profile calendar is the source of truth for total contributions.</sub>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahasan39&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=4&title=Commits,Repositories,Followers,Experience" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahasan39/Ahasan39/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahasan39/Ahasan39/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Ahasan39/Ahasan39/output/github-contribution-grid-snake.svg" width="95%" />
-  </picture>
 </p>
 
 ---
