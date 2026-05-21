@@ -92,14 +92,6 @@ A highly motivated and passionate **Computer Science & Engineering** graduate fr
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Ahasan39" alt="Contribution Heatmap" width="95%" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
