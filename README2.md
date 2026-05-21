@@ -84,11 +84,13 @@
 
 ---
 
-## 🔥 Streak & Stats
+## 🔥 Contribution Overview
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahasan39&theme=2077" alt="GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Ahasan39&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <a href="https://github.com/Ahasan39">
+    <img src="https://img.shields.io/badge/View%20Official%20Contribution%20Calendar-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Official Contribution Calendar" />
+  </a>
 </div>
 
 <div align="center">
@@ -101,7 +103,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahasan39&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahasan39&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=4&title=Commits,Repositories,Followers,Experience" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -109,7 +111,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahasan39&theme=tokyo-night&hide_border=true&area=true&radius=6" alt="Activity Graph" width="95%" />
+  <img src="https://ghchart.rshah.org/58A6FF/Ahasan39" alt="Contribution Heatmap" width="95%" />
 </p>
 
 ---
